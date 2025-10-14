@@ -1,5 +1,5 @@
 body {
-    font-family: "Segoe UI", "Lucida Grande"
+    font-family: "Segoe UI", "Lucida Grande", Tahoma, Verdana, sans-serif;
 }
 li:not(:last-child) {
     margin-bottom: 5px;
